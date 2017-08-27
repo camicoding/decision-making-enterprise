@@ -1,0 +1,5 @@
+C:\Users\consulta\Desktop\Proyecto\Modelo\bin\Debug\Modelo.dll
+C:\Users\consulta\Desktop\Proyecto\Modelo\bin\Debug\Modelo.pdb
+C:\Users\consulta\Desktop\Proyecto\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\consulta\Desktop\Proyecto\Modelo\obj\Debug\Modelo.dll
+C:\Users\consulta\Desktop\Proyecto\Modelo\obj\Debug\Modelo.pdb

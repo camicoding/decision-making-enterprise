@@ -1,0 +1,7 @@
+C:\Users\consulta\Desktop\Proyecto\ProcesadoraInicio\bin\Debug\FP-Tree.dll
+C:\Users\consulta\Desktop\Proyecto\ProcesadoraInicio\bin\Debug\FP-Tree.pdb
+C:\Users\consulta\Desktop\Proyecto\ProcesadoraInicio\bin\Debug\Modelo.dll
+C:\Users\consulta\Desktop\Proyecto\ProcesadoraInicio\bin\Debug\Modelo.pdb
+C:\Users\consulta\Desktop\Proyecto\ProcesadoraInicio\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\consulta\Desktop\Proyecto\ProcesadoraInicio\obj\Debug\FP-Tree.dll
+C:\Users\consulta\Desktop\Proyecto\ProcesadoraInicio\obj\Debug\FP-Tree.pdb

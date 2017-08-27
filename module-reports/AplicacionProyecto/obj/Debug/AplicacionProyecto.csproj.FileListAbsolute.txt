@@ -1,0 +1,65 @@
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe.config
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.pdb
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csprojResolveAssemblyReference.cache
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Aplicacion.resources
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Properties.Resources.resources
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csproj.GenerateResource.Cache
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.exe
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.pdb
+c:\users\consulta\documents\visual studio 2012\Projects\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.TipoDeReporte.resources
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe.config
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.exe
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.pdb
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.pdb
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csprojResolveAssemblyReference.cache
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Aplicacion.resources
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Properties.Resources.resources
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csproj.GenerateResource.Cache
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.VentanaComparar.resources
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.VentanaAnalizar.resources
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe.config
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.exe
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.pdb
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.pdb
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csprojResolveAssemblyReference.cache
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Aplicacion.resources
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Properties.Resources.resources
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.VentanaAnalizar.resources
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.VentanaComparar.resources
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csproj.GenerateResource.Cache
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.GraficarAnalisis.resources
+C:\Users\consulta\Desktop\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.GraficarComparacion.resources
+G:\Others\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe.config
+G:\Others\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.exe
+G:\Others\Proyecto Integrador\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.pdb
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.GraficarAnalisis.resources
+C:\Users\1144078641\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.GraficarComparacion.resources
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe.config
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.exe
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.pdb
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.pdb
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csprojResolveAssemblyReference.cache
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Aplicacion.resources
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.GraficarAnalisis.resources
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.GraficarComparacion.resources
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Properties.Resources.resources
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.VentanaAnalizar.resources
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.VentanaComparar.resources
+C:\Users\1144046676\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csproj.GenerateResource.Cache
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe.config
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.exe
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.pdb
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.exe
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\bin\Debug\AplicacionProyecto.pdb
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csprojResolveAssemblyReference.cache
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Aplicacion.resources
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.GraficarAnalisis.resources
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.GraficarComparacion.resources
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.Properties.Resources.resources
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.VentanaAnalizar.resources
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.VentanaComparar.resources
+C:\Users\consulta\Desktop\AplicacionProyecto\AplicacionProyecto\obj\Debug\AplicacionProyecto.csproj.GenerateResource.Cache

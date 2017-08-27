@@ -1,0 +1,35 @@
+﻿<Window x:Class="vista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Algoritmo FP GROWTH" Height="730.418" Width="1057.836" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,14,16">
+        <TabControl HorizontalAlignment="Left" Height="703" VerticalAlignment="Top" Width="1056" Margin="0,0,-20,-19">
+            <TabItem x:Name="Principal" Header="Principal">
+                <Grid Background="#FFE5E5E5" Margin="0,0,0,16">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="418*"/>
+                        <RowDefinition Height="207*"/>
+                    </Grid.RowDefinitions>
+                    <Button x:Name="butFpGrowth" Content="FP_GROWHT" HorizontalAlignment="Left" Margin="498,37,0,0" VerticalAlignment="Top" Width="119" Click="butFpGrowth_Click"/>
+                    <TextBox x:Name="txtSoporte" HorizontalAlignment="Left" Height="23" Margin="108,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="139" TextChanged="txtSoporte_TextChanged"/>
+                    <Label Content="Soporte:" HorizontalAlignment="Left" Margin="35,33,0,0" VerticalAlignment="Top"/>
+                    <Button x:Name="butCargar" Content="Cargar Datos" HorizontalAlignment="Left" Margin="317,37,0,0" VerticalAlignment="Top" Width="100" Click="butCargar_Click"/>
+                    <TextBox x:Name="txtResultado" IsReadOnly ="True" HorizontalAlignment="Left" Height="340" Margin="35,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="972" TextChanged="TextBox_TextChanged_1" Grid.RowSpan="2"/>
+                    <Calendar x:Name="CalendarioFinal" HorizontalAlignment="Left" Margin="787,33,0,-3" Width="180" Grid.Row="1" DisplayDate="2013-01-31" SelectedDate="2013-01-31"/>
+                    <Calendar x:Name="CalendarioInicial" HorizontalAlignment="Left" Height="180" Margin="171,28,0,0" VerticalAlignment="Top" Width="194" Grid.Row="1" DisplayDate="2013-01-01" SelectedDate="2013-01-01"/>
+                    <Label Content="Fecha inicio" HorizontalAlignment="Left" Height="28" Margin="62,33,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80"/>
+                    <Label Content="Fecha final" HorizontalAlignment="Left" Height="28" Margin="674,31,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Dependencias">
+                <Grid Background="#FFE5E5E5" Margin="0,-1,-3,-4">
+                    <Label x:Name="confianza" Content="Confianza:" HorizontalAlignment="Left" Margin="27,24,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtDependencias" IsReadOnly ="True" HorizontalAlignment="Left" Height="351" Margin="27,65,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" VerticalAlignment="Top" Width="972"/>
+                    <TextBox x:Name="txtConfianza" HorizontalAlignment="Left" Height="23" Margin="117,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Button x:Name="butCalcular" Content="Calcular Dependencias" HorizontalAlignment="Left" Margin="27,438,0,0" VerticalAlignment="Top" Width="210" Click="butCalcular_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

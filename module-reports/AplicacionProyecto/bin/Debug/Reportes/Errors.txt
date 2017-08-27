@@ -1,0 +1,43 @@
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Febrero.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Febrero.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Marzo.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Marzo.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Abril.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Abril.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Mayo.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Mayo.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Junio.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Junio.txt     no existe
+
+El archivo:     ./Reglas/Suc101#Enero-Febrero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc101#Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101CompEnero-Febrero&&Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101#Marzo-Abril.txt     no existe-----ó-----El archivo:     ./Reglas/Suc101#Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101CompMarzo-Abril&&Mayo-Junio.txt     no existe
+
+El archivo:     ./Reglas/Suc101#Enero-Febrero-Marzo.txt     no existe-----ó-----El archivo:     ./Reglas/Suc101#Abril-Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101CompEnero-Febrero-Marzo&&Abril-Mayo-Junio.txt     no existe
+
+El archivo:     ./Reglas/Suc101#Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101#Abril-Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe
+----------------------------------------------------------------------------------------------------------------------------------------
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Febrero.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Febrero.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Marzo.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Marzo.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Abril.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Abril.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Mayo.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Mayo.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc109#Junio.txt     no existe
+El archivo:     ./Reglas/Suc109CompEnero&&Junio.txt     no existe
+El archivo:     ./Reglas/Suc101#Enero-Febrero.txt     no existe-----ó-----El archivo:     ./Reglas/Suc101#Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101CompEnero-Febrero&&Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101#Marzo-Abril.txt     no existe-----ó-----El archivo:     ./Reglas/Suc101#Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101CompMarzo-Abril&&Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101#Enero-Febrero-Marzo.txt     no existe-----ó-----El archivo:     ./Reglas/Suc101#Abril-Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101CompEnero-Febrero-Marzo&&Abril-Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101#Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc101#Abril-Mayo-Junio.txt     no existe
+El archivo:     ./Reglas/Suc108#Febrero-Marzo.txt     no existe
+El archivo:     ./Reglas/Suc109#Enero.txt     no existe

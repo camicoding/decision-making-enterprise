@@ -1,0 +1,13 @@
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe.config
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.pdb
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\bin\Debug\FP-Tree.dll
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\bin\Debug\Modelo.dll
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\bin\Debug\FP-Tree.pdb
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\bin\Debug\Modelo.pdb
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csprojResolveAssemblyReference.cache
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.Form1.resources
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.Properties.Resources.resources
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.GenerateResource.Cache
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.exe
+C:\Users\consulta\Desktop\Proyecto\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.pdb
